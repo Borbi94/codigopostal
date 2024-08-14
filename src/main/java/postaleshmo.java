@@ -30,7 +30,6 @@ public class postaleshmo {
             System.out.println("Asentamientos rurales: " + rurales);
 
         } catch (IOException e) {
-            e.printStackTrace();
         }
     }
 }
